@@ -1,0 +1,19 @@
+title: 'userz3r0.github.io'
+description: "Infosec blog & sometimes much more"
+baseurl: "/jekyll-theme-console"
+url: "https://userz3r0.github.io"
+
+
+header_pages:
+  - index.md
+  - about.md
+
+
+style: dark
+
+footer: '<a href="https://twitter.com/userz3r0">twitter</a>
+<a href="https://github.com/userz3r0">github</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console

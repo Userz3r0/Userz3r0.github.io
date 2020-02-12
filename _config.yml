@@ -17,3 +17,5 @@ footer: '<a href="https://twitter.com/userz3r0">twitter</a>
 # Build settings
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
+
+theme: jekyll-theme-cayman
